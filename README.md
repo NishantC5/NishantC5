@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nishant Chandrashekhar
 - 👀 I’m interested in Geometric modeling, computational geometry and robotics.
 - 🌱 I’m currently learning ROS and enhancing my geometry skills (always try to!)
-- 💞️ I’m looking to collaborate on geometric modeling and robotics
+- 💞️ I’m looking to collaborate on geometric modeling and robotics projects
 - 📫 How to reach me : https://www.linkedin.com/in/nishant-chandrashekhar/
 
 <!---
